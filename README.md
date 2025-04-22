@@ -20,5 +20,5 @@ An interactive, real‑time performance monitoring and optimization tool that us
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/AI-Performance-Analyzer-OS-Processes.git
+   git clone https://github.com/amanullahquamer/AI-Performance-Analyzer-OS-Processes.git
    cd AI-Performance-Analyzer-OS-Processes
