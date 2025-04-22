@@ -15,3 +15,10 @@ An interactive, real‑time performance monitoring and optimization tool that us
   Visualizes metrics and optimization steps in a user‑friendly UI built with Streamlit :contentReference[oaicite:0]{index=0}.  
 - **Easy Deployment**  
   Run locally or deploy to any hosting platform that supports Python and Streamlit :contentReference[oaicite:1]{index=1}.
+
+  ## 🔧 Installation
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/AI-Performance-Analyzer-OS-Processes.git
+   cd AI-Performance-Analyzer-OS-Processes
